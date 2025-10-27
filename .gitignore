@@ -1,2 +1,50 @@
-**/bin/
-*/bin/
+# OS関連
+.DS_Store
+Thumbs.db
+
+# Unity生成ファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# UnityクラッシュレポートやProfilerデータ
+*.stacktrace
+*.pidb
+*.mdb
+*.pdb
+*.opendb
+*.log
+
+# Rider / Visual Studio
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb.meta
+
+# その他
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+
+# Git管理対象外の個人設定
+*.swp
+*.tmp
+*.temp
+*.bak
+*.old
+
+# パッケージキャッシュ
+Packages/com.unity.*/*
+!Packages/manifest.json
