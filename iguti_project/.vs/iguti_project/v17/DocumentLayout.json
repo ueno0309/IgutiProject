@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\24121026\\onedrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\igutiproject\\iguti_project\\assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleButton.cs",
+              "DocumentMoniker": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\TitleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\iguchi\\script\\TitleButton.cs",
+              "ToolTip": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\TitleButton.cs",
+              "RelativeToolTip": "Assets\\iguchi\\script\\TitleButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:55:52.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
