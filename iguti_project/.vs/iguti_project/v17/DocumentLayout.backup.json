@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\24121026\\onedrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\igutiproject\\iguti_project\\assets\\iguchi\\script\\audioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\iguchi\\script\\audioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\24121026\\onedrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\igutiproject\\iguti_project\\assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,19 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AudioConfig.cs",
-              "DocumentMoniker": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\AudioConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\iguchi\\script\\AudioConfig.cs",
-              "ToolTip": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\AudioConfig.cs",
-              "RelativeToolTip": "Assets\\iguchi\\script\\AudioConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:23:43.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TitleButton.cs",
               "DocumentMoniker": "C:\\Users\\24121026\\OneDrive - \u548C\u6B4C\u5C71\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30D3\u30B8\u30CD\u30B9\u5C02\u9580\u5B66\u6821\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\TitleButton.cs",
               "RelativeDocumentMoniker": "Assets\\iguchi\\script\\TitleButton.cs",
