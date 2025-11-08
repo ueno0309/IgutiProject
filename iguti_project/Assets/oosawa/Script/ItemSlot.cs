@@ -1,14 +1,18 @@
+// ItemSlot.cs
 using UnityEngine;
-using UnityEngine.EventSystems; // ƒCƒxƒ“ƒgƒVƒXƒeƒ€‚ğg‚¤‚½‚ß‚É•K—v
+using UnityEngine.EventSystems;
 
 public class ItemSlot : MonoBehaviour, IDropHandler // IDropHandlerƒCƒ“ƒ^[ƒtƒF[ƒX‚ğÀ‘•
 {
+    [Header("ƒMƒ~ƒbƒN˜AŒg (ƒ^[ƒQƒbƒgƒXƒƒbƒgUI‚Ì‚İ)")]
+    // š˜AŒg‚·‚é•¨—ƒgƒŠƒK[‚ğƒCƒ“ƒXƒyƒNƒ^‚Åİ’è
+    public SlotTrigger linkedTrigger;
+
     // ƒAƒCƒeƒ€‚ª‚±‚ÌƒXƒƒbƒg‚Ìã‚Åƒhƒƒbƒviƒ}ƒEƒXƒ{ƒ^ƒ“‚ª—£j‚³‚ê‚½‚ÉŒÄ‚Î‚ê‚é
     public void OnDrop(PointerEventData eventData)
     {
-        Debug.Log("OnDrop called");
+        Debug.Log("OnDrop called on: " + gameObject.name);
 
-        // ƒhƒƒbƒv‚³‚ê‚½ƒIƒuƒWƒFƒNƒgiƒhƒ‰ƒbƒO‚³‚ê‚Ä‚«‚½ƒIƒuƒWƒFƒNƒgj‚ğæ“¾
         GameObject droppedObject = eventData.pointerDrag;
         DraggableItem draggableItem = droppedObject.GetComponent<DraggableItem>();
 
@@ -17,11 +21,19 @@ public class ItemSlot : MonoBehaviour, IDropHandler // IDropHandlerƒCƒ“ƒ^[ƒtƒF
             // ƒAƒCƒeƒ€‚ğ‚±‚ÌƒXƒƒbƒg‚Ìq—v‘f‚É‚·‚é
             draggableItem.transform.SetParent(this.transform);
 
-            // ƒAƒCƒeƒ€‚ÌˆÊ’u‚ğƒXƒƒbƒg‚Ì’†‰›‚É‡‚í‚¹‚é
+            // ƒAƒCƒeƒ€‚ÌˆÊ’u‚ğƒXƒƒbƒg‚Ì’†‰›‚É‡‚í‚¹‚é (UI‚È‚Ì‚Å localPosition)
             draggableItem.transform.localPosition = Vector3.zero;
 
             // ƒAƒCƒeƒ€‚Éu¡‚¢‚éƒXƒƒbƒgv‚ğiƒhƒƒbƒv¬Œ÷‚Æ‚µ‚ÄjXV‚³‚¹‚é
             draggableItem.currentSlot = this.transform;
+
+            // --- š‚±‚±‚©‚ç•ÏXš ---
+            // ‚à‚µA‚±‚ÌƒXƒƒbƒg‚ª˜AŒg‚·‚éƒgƒŠƒK[ (linkedTrigger) ‚ğ‚Á‚Ä‚¢‚½‚ç
+            if (linkedTrigger != null)
+            {
+                // ƒgƒŠƒK[‚ÉuƒAƒCƒeƒ€‚ª’u‚©‚ê‚½v‚±‚Æ‚ğ’Ê’m
+                linkedTrigger.Activate(draggableItem.itemType);
+            }
         }
     }
 }

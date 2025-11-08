@@ -2,9 +2,20 @@ using UnityEngine;
 using UnityEngine.EventSystems; // イベントシステム
 using UnityEngine.UI; // Imageなど
 
+// アイテムの種類を定義
+public enum ItemType
+{
+    None, // 何でもないアイテム
+    ElevatorUp, // 上矢印（エレベーター）
+    TrapDown    // 下矢印（落とし穴）
+}
+
 [RequireComponent(typeof(CanvasGroup))] // 必要なコンポーネントを自動で追加
 public class DraggableItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
+    [Header("アイテム設定")]
+    public ItemType itemType = ItemType.None; // このアイテムの種類
+
     private CanvasGroup canvasGroup;
     public Transform currentSlot; // アイテムが現在入っているスロット
 
@@ -20,6 +31,21 @@ public class DraggableItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("OnBeginDrag");
+
+        // 元のスロットに「アイテムが持ち去られた」ことを通知
+        if (currentSlot != null)
+        {
+            ItemSlot slot = currentSlot.GetComponent<ItemSlot>();
+            if (slot != null)
+            {
+                // もし、そのスロットが連携するトリガーを持っていたら
+                if (slot.linkedTrigger != null)
+                {
+                    // トリガーを「非アクティブ化」する
+                    slot.linkedTrigger.Deactivate();
+                }
+            }
+        }
 
         // 1. レイキャスト（当たり判定）を無効にする
         //    (これをしないと、OnDropが自分自身（アイテム）で隠れてしまい、
