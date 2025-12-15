@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
         Falling,    // 落下中
         Bouncing,   // 激突中
         Exploding,  // 爆発
+        Crashed,    // やられ状態
         Stopped     // 停止中 (ゴールなど)
     }
 
@@ -35,6 +36,9 @@ public class PlayerController : MonoBehaviour
     public float fallSpeed = 5.0f;
     public int bounceCount = 3; // ガンガンと打ち付ける回数
     public float bounceForce = 2.0f; // 打ち付け時の跳ね返り（Y方向の力）
+
+    [Header("ダメージ表現設定")] 
+    public Sprite hitSprite; // ぶつかった時の画像
 
     // コンポーネント
     private SpriteRenderer spriteRenderer;
@@ -97,7 +101,34 @@ public class PlayerController : MonoBehaviour
                 spriteRenderer.sprite = idleSprite;
                 rb.bodyType = RigidbodyType2D.Kinematic;
                 break;
+            case PlayerState.Crashed:
+                spriteRenderer.sprite = hitSprite; // やられ画像に変更
+                rb.bodyType = RigidbodyType2D.Kinematic; // 動きを止める
+                rb.linearVelocity = Vector2.zero;
+                break;
         }
+    }
+
+    // 外部（車や岩）から呼ばれるやられ処理
+    public void Crash()
+    {
+        if (currentState != PlayerState.Crashed)
+        {
+            StartCoroutine(CrashSequence());
+        }
+    }
+
+    // やられてリセットするまでの流れ
+    private IEnumerator CrashSequence()
+    {
+        Debug.Log("プレイヤーがダメージを受けました！");
+        ChangeState(PlayerState.Crashed);
+
+        // 2秒待つ
+        yield return new WaitForSeconds(2.0f);
+
+        // リセット
+        ResetGame();
     }
 
     void Update()

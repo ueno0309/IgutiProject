@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlotTrigger.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "RelativeToolTip": "Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvyIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:06:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoalScript.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
+              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\GoalScript.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
+              "RelativeToolTip": "Assets\\oosawa\\Script\\GoalScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:52:29.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DraggableItem.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\DraggableItem.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
+              "RelativeToolTip": "Assets\\oosawa\\Script\\DraggableItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:26:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\ItemSlot.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\oosawa\\Script\\ItemSlot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:18:16.052Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\PlayerController.cs",
               "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\PlayerController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAADgv84AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:06:21.996Z",
               "EditorCaption": ""

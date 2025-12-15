@@ -8,6 +8,24 @@ public class ItemSlot : MonoBehaviour, IDropHandler // IDropHandlerƒCƒ“ƒ^[ƒtƒF
     // š˜AŒg‚·‚é•¨—ƒgƒŠƒK[‚ğƒCƒ“ƒXƒyƒNƒ^‚Åİ’è
     public SlotTrigger linkedTrigger;
 
+    // ƒQ[ƒ€ŠJn‚ÉƒAƒCƒeƒ€‚ªÅ‰‚©‚ç’u‚¢‚Ä‚ ‚é‚©ƒ`ƒFƒbƒN
+    void Start()
+    {
+        // ©•ª‚Ìq—v‘fiƒAƒCƒeƒ€j‚ª‚ ‚é‚©Šm”F
+        DraggableItem item = GetComponentInChildren<DraggableItem>();
+        if (item != null)
+        {
+            // ƒAƒCƒeƒ€‚ª‚ ‚ê‚ÎA‚»‚ÌƒAƒCƒeƒ€î•ñ‚ğ‰Šúİ’è‚·‚é
+            item.currentSlot = this.transform;
+
+            // ˜AŒgƒgƒŠƒK[‚ª‚ ‚ê‚Î—LŒø‰»‚·‚é
+            if (linkedTrigger != null)
+            {
+                linkedTrigger.Activate(item.itemType);
+            }
+        }
+    }
+
     // ƒAƒCƒeƒ€‚ª‚±‚ÌƒXƒƒbƒg‚Ìã‚Åƒhƒƒbƒviƒ}ƒEƒXƒ{ƒ^ƒ“‚ª—£j‚³‚ê‚½‚ÉŒÄ‚Î‚ê‚é
     public void OnDrop(PointerEventData eventData)
     {

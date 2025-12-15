@@ -7,6 +7,9 @@ public class SlotTrigger : MonoBehaviour
     private PlayerController player;
     private BoxCollider2D triggerCollider;
 
+    [Header("落石トラップ用設定")] 
+    public GameObject rockObject; // 落ちてくる岩のオブジェクト
+
     void Start()
     {
         // プレイヤーの参照を自動で取得
@@ -64,6 +67,22 @@ public class SlotTrigger : MonoBehaviour
                 case ItemType.TrapDown:
                     Debug.Log("落下トラップ作動！");
                     player.StartTrapDown();
+                    triggerUsed = true;
+                    break;
+
+                case ItemType.FallingRockSign:
+                    Debug.Log("落石！");
+
+                    // 岩を表示して落とす
+                    if (rockObject != null)
+                    {
+                        rockObject.SetActive(true);
+                        Rigidbody2D rockRb = rockObject.GetComponent<Rigidbody2D>();
+                        if (rockRb != null) rockRb.bodyType = RigidbodyType2D.Dynamic;
+                    }
+
+                    // プレイヤー即死
+                    player.Crash();
                     triggerUsed = true;
                     break;
             }

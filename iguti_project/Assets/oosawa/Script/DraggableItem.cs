@@ -8,6 +8,7 @@ public enum ItemType
     None, // 何でもないアイテム
     ElevatorUp, // 上矢印（エレベーター）
     TrapDown    // 下矢印（落とし穴）
+    FallingRockSign // 落石注意の看板
 }
 
 [RequireComponent(typeof(CanvasGroup))] // 必要なコンポーネントを自動で追加
