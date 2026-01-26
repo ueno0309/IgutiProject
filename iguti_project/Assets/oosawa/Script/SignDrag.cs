@@ -47,7 +47,14 @@ public class SignDrag : MonoBehaviour
         if (distance < 1.5f)
         {
             // スロットの位置にピタッと吸着させる
-            transform.position = targetSlot.position;
+            // targetSlotの位置を取得
+            Vector3 newPos = targetSlot.position;
+
+            // z軸の値を-1する
+            newPos.z -= 1.0f;
+
+            // 変更した位置をセット
+            transform.position = newPos;
             isStored = true; // 「片付け完了」にする
             Debug.Log("看板を収納しました");
         }

@@ -6,7 +6,7 @@ public class ItemSlot : MonoBehaviour, IDropHandler // IDropHandlerƒCƒ“ƒ^[ƒtƒF
 {
     [Header("ƒMƒ~ƒbƒN˜AŒg (ƒ^[ƒQƒbƒgƒXƒƒbƒgUI‚Ì‚İ)")]
     // š˜AŒg‚·‚é•¨—ƒgƒŠƒK[‚ğƒCƒ“ƒXƒyƒNƒ^‚Åİ’è
-    public SlotTrigger linkedTrigger;
+    public Slot linkedTrigger;
 
     // ƒQ[ƒ€ŠJn‚ÉƒAƒCƒeƒ€‚ªÅ‰‚©‚ç’u‚¢‚Ä‚ ‚é‚©ƒ`ƒFƒbƒN
     void Start()
