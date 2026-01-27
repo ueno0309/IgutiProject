@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\trtak\\documents\\github\\igutiproject\\iguti_project\\assets\\ueno\\script\\pictgrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictgrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\stagemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\stagemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogrambase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogrambase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\replaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\replaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\goalcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\goalcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogrambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogrambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\escalatormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\escalatormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\escalatorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\escalatorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogramselectmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogramselectmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\itemslotmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\itemslotmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogramdraglimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogramdraglimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogramplayback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogramplayback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictgrammove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictgrammove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictgramPickup.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictgramPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictgramPickup.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictgramPickup.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictgramPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:15:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PictogramBase1.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase1.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramBase1.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase1.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramBase1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:14:03.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StageManeger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\StageManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\StageManeger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\StageManeger.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\StageManeger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:11:49.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\Goal.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\Goal.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:38:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoalCreator.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\GoalCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\GoalCreator.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\GoalCreator.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\GoalCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:35:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EscalatorMove.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\EscalatorMove.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\EscalatorMove.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\EscalatorMove.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\EscalatorMove.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:32:15.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ItemSlot.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:03:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EscalatorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\EscalatorChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\EscalatorChanger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\EscalatorChanger.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\EscalatorChanger.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:30:49.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PictogramDragLimiter.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramDragLimiter.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramDragLimiter.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramDragLimiter.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramDragLimiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:47:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReplayController.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ReplayController.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ReplayController.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ReplayController.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ReplayController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:20:30.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pictogramselectmove.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\Pictogramselectmove.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\Pictogramselectmove.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\Pictogramselectmove.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\Pictogramselectmove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:51:50.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PictogramPickup.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramPickup.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPickup.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:25:18.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PictogramBase.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramBase.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:20:56.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemSlotManeger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:26:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExitDoor.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ExitDoor.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitDoor.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ExitDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:35:05.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PictogramPlayback.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPlayback.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramPlayback.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPlayback.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramPlayback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:26:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PictgramMove.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictgramMove.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictgramMove.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictgramMove.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictgramMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:22:08.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
