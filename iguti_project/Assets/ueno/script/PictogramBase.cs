@@ -5,6 +5,7 @@ using UnityEngine;
 /// </summary>
 public class PictogramBase : MonoBehaviour
 {
+
     [HideInInspector] public bool isPlaced = false; // îzíuçœÇ›Ç©Ç«Ç§Ç©
     [HideInInspector] public bool isPicked = false; // èEÇÌÇÍÇΩÇ©Ç«Ç§Ç©
 

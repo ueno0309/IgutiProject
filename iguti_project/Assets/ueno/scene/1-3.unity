@@ -1889,7 +1889,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4546583240136337638, guid: 4a4f1208c74b6a54988154d50b132f6d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5258413617831774666, guid: 4a4f1208c74b6a54988154d50b132f6d, type: 3}
       propertyPath: m_Name
@@ -2036,6 +2036,10 @@ PrefabInstance:
     - target: {fileID: 2115623416188624325, guid: 6781f099b241a2740aa1fcd5fc6d115d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785628374844910769, guid: 6781f099b241a2740aa1fcd5fc6d115d, type: 3}
+      propertyPath: nextSceneName
+      value: Result_test
       objectReference: {fileID: 0}
     - target: {fileID: 3757811799864439156, guid: 6781f099b241a2740aa1fcd5fc6d115d, type: 3}
       propertyPath: m_Name

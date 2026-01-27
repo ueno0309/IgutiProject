@@ -1,62 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\",
+  "WorkspaceRootPath": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\PlayerController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\trtak\\documents\\github\\igutiproject\\iguti_project\\assets\\ueno\\script\\exitgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\exitgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\2PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\gamemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\gamemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogrambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogrambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\RockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\pictogrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\pictogrampickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\SignDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\itemslot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\itemslot1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\itemslotmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\itemslotmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ueno\\script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\FallingRockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\WorldDraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\CrosswalkTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\TrafficLightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\TrafficLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\SignDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\FallingRockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\WorldDraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\CrosswalkTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\TrafficLightController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\SlotTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\GoalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\DraggableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\ItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:Assets\\oosawa\\Script\\RockTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,48 +103,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "2PlayerController.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\2PlayerController.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
-              "RelativeToolTip": "Assets\\oosawa\\Script\\2PlayerController.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAADwvwEBAAAkAAAAAAAAAA==",
+              "Title": "GameManeger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\GameManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\GameManeger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\GameManeger.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\GameManeger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T14:44:34.291Z",
+              "WhenOpened": "2026-01-27T06:37:56.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController1.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
-              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\PlayerController1.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
-              "RelativeToolTip": "Assets\\oosawa\\Script\\PlayerController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAnAAAAAAAAAA==",
+              "Title": "ExitGoal.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitGoal.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ExitGoal.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitGoal.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ExitGoal.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T14:42:58.367Z",
+              "WhenOpened": "2026-01-27T06:37:38.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RockTrap.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs",
-              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\RockTrap.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs",
-              "RelativeToolTip": "Assets\\oosawa\\Script\\RockTrap.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PictogramBase.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramBase.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T00:52:56.773Z"
+              "WhenOpened": "2026-01-27T06:12:00.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ItemSlot1.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot1.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlot1.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot1.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ItemSlot1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:08:27.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PictogramPickup.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramPickup.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPickup.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\PictogramPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:10:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExitDoor.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ExitDoor.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitDoor.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ExitDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:01:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemSlotManeger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ItemSlotManeger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:34:21.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\ItemSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:33:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:18:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SignDrag.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\SignDrag.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\SignDrag.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "FallingRockTrap.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\FallingRockTrap.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\FallingRockTrap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "WorldDraggable.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\WorldDraggable.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\WorldDraggable.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "CrosswalkTrap.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\CrosswalkTrap.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\CrosswalkTrap.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "TrafficLightController.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\TrafficLightController.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\TrafficLightController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,23 +271,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "TrafficLight.cs",
               "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
-              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
               "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
-              "RelativeToolTip": "Assets\\oosawa\\Script\\TrafficLight.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T15:44:20.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "SlotTrigger.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\SlotTrigger.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\SlotTrigger.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "GoalScript.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\GoalScript.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\GoalScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "DraggableItem.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\DraggableItem.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\DraggableItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "ItemSlot.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\ItemSlot.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\ItemSlot.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,16 +331,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\PlayerController.cs",
-              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\oosawa\\Script\\PlayerController.cs",
-              "ViewState": "AgIAAP4AAAAAAAAAAADgvxQBAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvzIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:06:21.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T13:06:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RockTrap.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\RockTrap.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs",
+              "RelativeToolTip": "Assets\\oosawa\\Script\\RockTrap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:52:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController1.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:42:58.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "2PlayerController.cs",
+              "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
+              "ToolTip": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAADwvwEBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:44:34.291Z"
             }
           ]
         }

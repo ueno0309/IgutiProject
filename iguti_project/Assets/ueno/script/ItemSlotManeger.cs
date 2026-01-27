@@ -6,7 +6,7 @@ public class ItemSlotManager : MonoBehaviour
     public static ItemSlotManager Instance { get; private set; }
 
     [Header("管理するスロット（複数対応）")]
-    [SerializeField] private List<ItemSlot> itemSlots = new List<ItemSlot>();
+    [SerializeField] private List<ItemSlot1> itemSlots = new List<ItemSlot1>();
 
     private List<string> storedItems = new List<string>();
 

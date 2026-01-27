@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
-public class ItemSlot : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
+public class ItemSlot1 : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     [Header("スロット設定")]
     [SerializeField] private Image slotImage;

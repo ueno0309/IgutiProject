@@ -1,16 +1,17 @@
 using UnityEngine;
 
-public class GameManeger : MonoBehaviour
+public class GameManager1 : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static GameManager1 Instance;
+
+    void Awake()
     {
-        
+        Instance = this;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnGoal()
     {
-        
+        Debug.Log("ステージクリア！");
+        // リザルト表示・SE・次ステージ
     }
 }
