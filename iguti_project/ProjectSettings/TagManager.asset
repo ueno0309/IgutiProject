@@ -4,18 +4,19 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - pictogram
-  - ItemPictogram
+  - Floor
+  - Sign
+  - Rock
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Sign
+  - Rock
   - 
   - 
   - 
