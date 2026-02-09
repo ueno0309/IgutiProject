@@ -5,6 +5,6 @@ public class TitleButton : MonoBehaviour
 {
     public void startBtn()
     {
-        SceneManager.LoadScene("main");
+        SceneManager.LoadScene("Stage1");
     }
 }
