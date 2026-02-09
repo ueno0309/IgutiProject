@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\trtak\\documents\\github\\igutiproject\\iguti_project\\assets\\ueno\\script\\exitgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|c:\\users\\trtak\\documents\\github\\igutiproject\\iguti_project\\assets\\ueno\\script\\resultnext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\resultnext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\resultend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\resultend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\iguchi\\script\\titlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\assets\\ueno\\script\\exitgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E30E7ED4-B05B-FEDE-01EC-392AE7E4B04B}|Assembly-CSharp.csproj|solutionrelative:assets\\ueno\\script\\exitgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -103,6 +115,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "resultend.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\resultend.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\resultend.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\resultend.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\resultend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:14:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "resultnext.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\resultnext.cs",
+              "RelativeDocumentMoniker": "Assets\\ueno\\script\\resultnext.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\resultnext.cs",
+              "RelativeToolTip": "Assets\\ueno\\script\\resultnext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:03:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TitleButton.cs",
+              "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\TitleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\iguchi\\script\\TitleButton.cs",
+              "ToolTip": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\iguchi\\script\\TitleButton.cs",
+              "RelativeToolTip": "Assets\\iguchi\\script\\TitleButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:40:42.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameManeger.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\GameManeger.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\GameManeger.cs",
@@ -114,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ExitGoal.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitGoal.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\ExitGoal.cs",
@@ -122,12 +171,11 @@
               "RelativeToolTip": "Assets\\ueno\\script\\ExitGoal.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T06:37:38.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T06:37:38.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PictogramBase.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramBase.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramBase.cs",
@@ -139,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ItemSlot1.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot1.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlot1.cs",
@@ -151,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PictogramPickup.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\PictogramPickup.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\PictogramPickup.cs",
@@ -163,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ExitDoor.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ExitDoor.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\ExitDoor.cs",
@@ -175,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ItemSlotManeger.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlotManeger.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlotManeger.cs",
@@ -187,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ItemSlot.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\ueno\\script\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\ueno\\script\\ItemSlot.cs",
@@ -199,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\Player.cs",
@@ -210,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SignDrag.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SignDrag.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\SignDrag.cs",
@@ -222,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "FallingRockTrap.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\FallingRockTrap.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\FallingRockTrap.cs",
@@ -234,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "WorldDraggable.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\WorldDraggable.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\WorldDraggable.cs",
@@ -246,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CrosswalkTrap.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\CrosswalkTrap.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\CrosswalkTrap.cs",
@@ -258,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "TrafficLightController.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLightController.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\TrafficLightController.cs",
@@ -270,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "TrafficLight.cs",
               "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\TrafficLight.cs",
@@ -282,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SlotTrigger.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\SlotTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\SlotTrigger.cs",
@@ -294,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "GoalScript.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\GoalScript.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\GoalScript.cs",
@@ -306,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "DraggableItem.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\DraggableItem.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\DraggableItem.cs",
@@ -318,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ItemSlot.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\ItemSlot.cs",
@@ -330,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\PlayerController.cs",
@@ -342,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "RockTrap.cs",
               "DocumentMoniker": "C:\\Users\\TRTAK\\Documents\\GitHub\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\RockTrap.cs",
               "RelativeDocumentMoniker": "Assets\\oosawa\\Script\\RockTrap.cs",
@@ -354,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PlayerController1.cs",
               "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\PlayerController1.cs",
@@ -365,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "2PlayerController.cs",
               "DocumentMoniker": "C:\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HAL\\Iguchi\\Iguti_Project\\IgutiProject\\iguti_project\\Assets\\oosawa\\Script\\2PlayerController.cs",
